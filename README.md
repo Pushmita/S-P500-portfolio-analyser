@@ -12,4 +12,4 @@
 - Portfolio construction, risk analysis, performance visualization  
 
 ## 📈 Live Analysis
-[Open Notebook](portfolio_analysis.ipynb)
+[View Python Code](portfolio_analysis.ipynb)
